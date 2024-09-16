@@ -1,0 +1,452 @@
+clear
+ssh-keygen
+ls -l
+repogit
+clear
+ssh-keygen
+man ssh-keygen
+home
+cd
+$HOME
+pwd
+vagrant status
+logout
+vagrant halt
+logout
+ls -la
+ls -la .ssh/
+ssh-keygen 
+ssh-keygen --help
+ssh-keygen -t ed25519
+ls -la .ssh/
+rm id_rsa
+cat .ssh/id_ed25519
+cat .ssh/id_ed25519.pub
+cd
+ls
+cd repogit
+pwd
+cd-
+cd
+pwd
+cd
+pwd
+cd
+pwd
+ls
+rm
+cd repogit
+ls
+cd
+pwd
+mkdir repogit
+la
+remove repogit
+rm repogit
+cd repogit
+git clone git@github.com:deltron9/TP_AySO.git
+TP_AySO/
+pwd
+cd TP_AySO/
+pwd
+ls -l
+os-release
+cat /etc/os-release
+man grep
+grep HOME_URL
+pwd
+repogit
+cd reogit
+cd repogit
+cd TP_AySO/
+cat /etc/os-release
+grep -i Home/url /etc/os-release
+id -un
+whoami
+mkdir datos_usuario.txt
+echo “Usuario=$(whoami)” > datos_usuario.txt
+rm datos_usuario.txt
+-rm datos_usuario.txt
+rm -r datos_usuario.txt
+ls
+“Usuario=$(whoami)” > datos_usuario.txt
+touch datos_usuario.txt
+ls
+rm -r datos_usuario.txt
+ls
+“Usuario=$(whoami)” > datos_usuario.txt
+s
+ls
+datos_usuario.txt
+echo "usuario:vagrant" >> datos_usuario.txt
+ls
+whoami
+git add
+git config --global user.email "cristian_collante@hotmail.com"
+git config --global user.name "deltron9"
+git status
+git add
+echo “Usuario=$(whoami)” >> datos_usuario.txt 
+git status
+git add
+git add .
+git status
+git config --global user.email "cristian_collante@hotmail.com"
+git config --global user.name "deltron9"
+git commit -m "add: agregado 1er ejercicio
+sobre datos_usuarios.txt"
+git status
+grep "model name" /proc/cpuinfo
+grep "model name" /poc/cpuinfo | head -n1 >> datos_usuario.txt
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt
+datos_usuario.txt
+git status
+git add .
+git status
+datos_usuario.txt
+cat datos_usuario.txt
+rm -f datos_usuario.txt
+ls
+cat datos_usuario.txt
+git status
+git add .
+git status
+cat datos_usuario.txt
+git config --global user.name "deltron9"
+git config --global user.email "cristian_collante@hotmail.com"
+git status
+git commit -m "ADD: agregado 1er ejercicio
+sobre datos_usuarios.txt"
+git status
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt
+git add ."
+git add .
+cd
+
+
+
+pwd
+ls
+cd repogit
+cd TP_AySO/
+ls
+rm -f
+ls
+rm -f datos_usuario,txt
+ls
+rm -r datos_usuario.txt
+ls
+echo “Usuario=$(whoami)” > datos_usuario.txt
+ls
+cat datos_usuario.txt
+git status
+git add .
+git status
+ls
+git config --global user.email "cristian_collante@hotmail.com"
+git config --global user.name "deltron9"
+git commit -m "ADD: agregado 1er ejercicio
+sobre datos_usuarios.txt"
+git status
+cat datos_usuario.txt
+re -r datos_usuario.txt
+rm -r datos_usuario.txt
+ls
+touch archivo
+git status
+git add .
+ls
+git status
+git commit -m 'add: primer commit'
+git status
+cat archivo
+ls
+cat archivo
+git push
+ls
+rm -r archivo
+ls
+git push
+ls
+git commit - 'add: borre el archivo creado en clase para poder empezar el tp'
+git commit -m 'add: borré el archivo creado en clase para poder iniciar el tp'
+ls
+touch archivo.txt
+git commit -m 'add: este es el archivo que cree en clase, pero pongo ese comentario para evidenciar que practiqué jajajaja'
+cat archivo.txt
+git push
+cat archivo.txt
+echo 'este archivo fue hecho en clase' > archivo.txt
+ls
+cat archivo.txt
+git push
+git add .
+git push
+cd
+cd repogit
+rm -r TP_AySO/
+cd
+ls
+repogit
+cd repogit
+ls
+rm -r TP_AySO/
+git push
+ls
+rm -r UTN-FRA_SO_onBording/
+rm -f UTN-FRA_SO_onBording/.git/
+TP_AySO/
+cd TP_AySO/
+ls
+ls -la
+git push
+cd
+repogit
+ls
+cd repogit
+ls
+rm -r TP_AySO/
+git push
+ls
+sudo add-apt-repository --remove
+ls
+TP_AySO/ --remove
+rem -r TP_AySO/
+rm -r TP_AySO/
+git remove TP_AySO/
+git --help
+git pull
+ls
+cd TP_AySO/
+ls
+dc
+-cd
+cd-
+ls
+ls -la
+rm -r .git
+cd
+pwd
+cd repogit
+ls
+git push
+cd TP_AySO/
+git push
+cd
+repogit
+cd repogit
+rm -rf TP_AySO/
+ls
+git clone git@github.com:deltron9/TP_AySO.git
+cd TP_AySO/
+echo “Usuario=$(whoami)” > datos_usuario.txt 
+ls
+git status
+git add .
+ls
+git status
+git config --global user.email "cristian_collanteʘhotmail.com"
+git config --global user.name "deltron9"
+git commit -m "ADD: agregado 1er ejercicio
+sobre datos_usuarios.txt"
+git status
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt
+cat datos_usuario.txt
+git commit -m 'add: feat: Añadiendo información de CPU'
+git add .
+ls
+cat datos_usuario.txt
+git push
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt
+git add .
+git commit -m "add: feat: añadiendo información de CPU"
+cat datos_usuario.txt
+git push
+rm -r datos_usuario.txt
+ls
+echo “Usuario=$(whoami)” > datos_usuario
+git add .
+ls
+rm -r datos_usuario
+ls
+echo “Usuario=$(whoami)” > datos_usuario.txt
+git add .
+git commit -m "ADD: agregado 1er ejercicio
+sobre datos_usuarios.txt"
+git status
+grep tail -n1
+cd repogit
+cd TP_AySO/
+ls
+cat datos_usuario
+cat datos_usuario.txt
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt
+git add .
+git add datos_usuario.txt
+git commit -m "feat: Añadiendo información de CPU"
+git push
+git status
+cat datos_usuario.txt
+cd
+cd repogit
+remove TP_AySO/
+rm -rf TP_AySO/
+ls
+git clone git@github.com:deltron9/TP_AySO.git
+echo “Usuario=$(whoami)” > datos_usuario.txt
+git add . 
+ls
+rm -r datos_usuario.txt
+cd TP_AySO/
+echo “Usuario=$(whoami)” > datos_usuario.txt
+git add . 
+git commit -m "ADD: agregado 1er ejercicio
+sobre datos_usuarios.txt"
+git status
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt
+git add datos_usuario.txt
+git commit -m "feat: Añadiendo información de CPU"
+touch lista_ordenada
+ls
+grep -v "nologin" /etc/passwd
+clear
+cd
+cd repogit
+rm -rf TP_AySO/
+ls
+git clone git@github.com:deltron9/TP_AySO.git
+man grep
+grep HOME_URL /etc/os-release
+grep home_url /etc/os-release
+grep -i Home_url /etc/os-release
+whoami
+echo “Usuario=$(whoami)” > datos_usuario.txt 
+git add .
+pwd
+cd TP_AySO/
+man grep
+grep HOME_URL /etc/os-release
+grep -i Home_url /etc/os-release
+whoami
+echo “Usuario=$(whoami)” > datos_usuario.txt 
+git add .
+git commit -m "ADD: agregado 1er ejercicio
+sobre datos_usuarios.txt"
+git status
+grep "model name" /proc/cpuinfo | tail -n1
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt
+git add .
+git commit -m "feat: Añadiendo información de CPU"
+man grep
+grep -v "nologin" /etc/passwd | head -n10
+man sort
+grep -v "nologin" /etc/passwd | head -n10 | sort -k7 > lista_ordenada
+git add .
+git commit -m "ADD: Listado de usuarios ordenada"
+man dump_traffic
+cd repogit
+cd TP_AySO/
+grep "nologin" /etc/passwd | head -n10
+grep -v "nologin" /etc/passwd | head -n10
+grep -v "nologin" /etc/passwd | head -n10 | sort -t -k7
+grep -v "nologin" | sort -t ':' -k 7 | head -n 10
+cd repogit
+cd TP_AySO/
+ls
+grep -v "nologin" | head -n10  
+cd repogit
+cd TP_AySO/
+cat lista_ordenada 
+grep -v "nologin" /etc/passwd | head -n10
+grep -v "nologin" /etc/passwd |sort -t: -k 7| head -n10
+grep -v "nologin" /etc/passwd
+grep -v "nologin" /etc/passwd | head -n10 | sort -t: -k7 > lista_ordenada 
+cat lista_ordenada 
+git add .
+git push
+cat << EOF >> README.md
+Alumno: Cristian Collante
+División: 318
+Turno: noche
+EOF
+
+cat README.md
+cat << EOF >> README.md
+Alumno: <Cristian Iván Collante (Deltron)>
+División: <318>
+Turno: <Noche>
+EOF
+
+cat README.md
+cat << EOF > README.md
+Alumno: <Cristian Iván Collante (Deltron)>
+> División: <318>
+> Turno: <Noche>
+> EOF
+
+
+EOF
+
+cat README.md
+cat << EOF > README.md
+Alumno: Cristian Iván Collante (Deltron)
+Division: 318
+Turno: Noche
+EOF
+
+cat README.md
+git add .
+git commit -m "docs: añadir información de nombre completo, división y turno del alumno al README"
+rm -r lista_ordenada 
+ls
+grep -v "nologin" /etc/passwd
+cd
+cd repogit
+rm -r TP_AySO/
+ls
+rm -r datos_usuario.txt 
+ls
+cd repogit
+cd TP_AySO/
+ls
+cat lista_ordenada 
+git add .
+git commit -m "add: Listado de usuarios ordenada"
+rm -r lista_ordenada 
+grep -v "nologin" /etc/passwd | head -n10 | sort -t: -k7 > lista_ordenada
+ls
+git add .
+git commit -m "add: Listado de usuarios ordenada"
+echo "El comando que se usa para realizar es tpcdump." > comando_dump_net
+ls
+echo "-w (archivo): Guarda la captura en un archivo para ser analizada más tarde." >> comando_dump_net 
+cat comando_dump_net 
+echo "-c (número): Limita el número de paquetes que se capturan." >> comando_dump_net 
+echo "-n: Evita la resolución de nombres de host y usa direcciones IP en su lugar." >> comando_dump_net 
+echo "-s (snaplen): Define el tamaño máximo del paquete capturado. Usualmente, se usa -s 0 para capturar todo el paquete." >> comando_dump_net 
+ls
+git add .
+git commit -m "add: comando para capturar y analizar el tráfico de red"
+cat << EOF >> README.md
+Alumno: Cristian Ivan Collante
+Division: 318
+Turno: Noche
+EOF
+
+cat README.md
+cat << EOF >> README.md
+EOF
+
+cat << EOF > README.md
+# TP_AySO
+Alumno: Cristian Ivan Collante
+Division: 318
+Turno: Noche
+EOF
+
+cat README.md
+git add .
+git commit -m "docs: información añadida de alumno, division y turno al README."
+history -a
+cd
+history -a
