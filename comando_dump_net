@@ -1,2 +1,5 @@
-El comando que se usa para realizar un dump traffic es tpcdump
+El comando que se usa para realizar es tpcdump.
 -w (archivo): Guarda la captura en un archivo para ser analizada más tarde.
+-c (número): Limita el número de paquetes que se capturan.
+-n: Evita la resolución de nombres de host y usa direcciones IP en su lugar.
+-s (snaplen): Define el tamaño máximo del paquete capturado. Usualmente, se usa -s 0 para capturar todo el paquete.
